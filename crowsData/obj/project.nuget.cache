@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjGqwYan2mO5zrip4KuHWdX2INV10PvhZ+oj1OASnvpyUy+NIa9QpDmdKQxe/lhnTdax4f9koJeD7Z5fEPjtXw==",
+  "success": true,
+  "projectFilePath": "/home/stephen/Documents/Crows/crowsData/crowsData.csproj",
+  "expectedPackageFiles": [
+    "/home/stephen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/stephen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
